@@ -1,0 +1,16 @@
+{
+  "configurations": [
+    {
+      "name": "插入函数调用参数-version1",
+      "program": "${workspaceFolder}/parameters-insert/src/version1.js",
+      "request": "launch",
+      "type": "node"
+    },
+    {
+      "name": "自动埋点",
+      "program": "${workspaceFolder}/auto-track/src/index.js",
+      "request": "launch",
+      "type": "node"
+    }
+  ]
+}
